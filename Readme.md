@@ -1,6 +1,6 @@
 <img align="center" src='C:\Users\vthan\OneDrive\Desktop\Code_practices\1.jpg' />
 
-<h1 align="center">Hi there! I'm Thanush Veerappan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center">Hi there! I'm Codevinez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br> 
  
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Full-Stack+Web+Development;Front+End+developer;Back+End+developer;Open-Source+Developer;Nice+to+meet+you...)
@@ -13,11 +13,11 @@
        height="200px" width="auto" align="right"  />  -->
   <img  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l06umvnncegq4h2aklpuxyqjt8c69rd96evrta7e&rid=giphy.gif&ct=g" height="280px" align="right"  />
       
-- 🙋‍♂️ All about me is at **[My Website](https://thanush2001.github.io/My_Portfolio_Profile/index.html)**
+- 🙋‍♂️ All about me is at **[My Website](https://codevinez.com/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
  
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently Working `MERN Stack`
 
 - 👯 I’m looking to collaborate for `Projects`
 
@@ -27,10 +27,8 @@
 
 - ⚡ Fun fact _Time, Tide and JavaScript waits for none._
 
-- 📫 How to reach me *vthanush666@gmail.com*
+- 📫 How to reach me *codevineztech@gmail.com*
 
-- ⚓ <a href="https://drive.google.com/file/d/1hRU5pZeZyYbqoXCdU7WB_v_yJtUFxdUi/view?usp=drive_link" download>
-   <button>Download Resume</button>
 </a>
 <br>
 <br>
@@ -97,25 +95,25 @@
 <h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vthanush2001/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a title="https://www.vthanush666@gmail.com" href="https://www.vthanush666@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/917397187850" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/codevinez-solutions/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a title="https://www.codevineztech@gmail.com" href="https://www.codevineztech@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/8110020616" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
  <!--  <a href="https://twitter.com/madavanaru?s=20&t=casGFqKvivZrUiWdPyUosQ" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a> -->
 </p>
 <h2>📊  Github Stats</h2>
 <br/>
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Thanush2001&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanush2001&layout=compact&theme=midnight-purple" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=codevinez&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevinez&layout=compact&theme=midnight-purple" />
 </div>
  <br />
  <!--  <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Thanush2001&theme=rogue" alt="activitygraph" /> </p> -->
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanush2001&theme=vision-friendly-dark" alt=""/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codevinez&theme=vision-friendly-dark" alt=""/></p>
 <!--  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Thanush2001&no-frame=true" alt=""/></p> 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Thanush2001&no-frame=true" alt=""/></p> -->
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thanush2001&theme=tokyonight" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codevinez&theme=tokyonight" alt="summarycard"/> </p>
 
 <hr />
 
@@ -125,5 +123,5 @@
 <br>
     <h3 align="center"> 
   Visitor count <br><br>
-  <img  src="https://profile-counter.glitch.me/Thanush2001/count.svg" />
+  <img  src="https://profile-counter.glitch.me/codevinez/count.svg" />
 </h3>
